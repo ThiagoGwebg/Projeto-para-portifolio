@@ -12,5 +12,31 @@ body{
 }
 
 #titulo{
-    color: ;
+    color: rgb(255, 217, 93);
 }
+
+conteinerPrincipal{
+    background-color: aqua;
+    width: 1230px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+
+}
+
+ 
+
+#botao{
+       display: block; /* Para ocupar a largura total e usar margens/padding */
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50; /* Um tom de verde para chamar a atenção */
+    color: white;
+    text-decoration: none; /* Remove o sublinhado do link */
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+
