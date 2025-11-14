@@ -1,11 +1,13 @@
 body{
-   background-color: rgb(26, 26, 26);
+    background-color: rgb(26, 26, 26);
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
     height: 100vh;
     color: white;
+    overflow-y: hidden;
+    
 }
 
 .conteiner{

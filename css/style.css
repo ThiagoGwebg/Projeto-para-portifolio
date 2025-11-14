@@ -7,10 +7,11 @@ body{
     padding-top: 50px;
     height: 100vh;
     color: rgb(255, 255, 255);
+    overflow-y: hidden;
 }
     
 
-}
+
 
 #titulo{
     color: rgb(255, 217, 93);
